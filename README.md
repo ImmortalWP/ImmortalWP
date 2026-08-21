@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Developer focused on building practical, real-world apps<br><br>🚀 Currently working on an SBD (Squat, Bench, Deadlift) tracking app to digitize my training logs<br><br>⚙️ Tech stack: MERN (MongoDB, Express, React, Node.js)<br><br>🐧 Daily driving Linux (Fedora) for development<br><br>📱 Exploring mobile app workflows using web-to-app and AI-assisted tools<br><br>🏋️‍♂️ Powerlifting enthusiast — building tools I actually use in the gym<br><br>🎯 Goal: Create fast, minimal, and useful apps instead of overcomplicated ones<br><br>📚 Always learning by building projects, not just tutorials<br>
+💻 Developer focused on building practical, real-world apps<br><br>🚀 Currently working on an SBD (Squat, Bench, Deadlift) tracking app to digitize my training logs<br><br>⚙️ Tech stack: MERN (MongoDB, Express, React, Node.js)<br><br>🐧 Daily driving Linux (Fedora) for development<br><br>📱 Exploring mobile app workflows using web-to-app and AI-assisted tools<br><br>🏋️‍♂️ Building tools I actually use in the gym<br><br>🎯 Goal: Create fast, minimal, and useful apps instead of overcomplicated ones<br><br>📚 Always learning by building projects, not just tutorials<br>
 
 
 ## 🌐 Socials:
